@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Erioluwa Bamigbola
-- 👀 I’m interested in Software development, and product and program management
-- 🌱 I’m currently learning react.js
+- 👀 I have a good grasp of the concept of programming.
+- I can code in different languages
+- 🌱
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 
 
 <!---
 Bamigbola123/Bamigbola123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
