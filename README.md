@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Erioluwa Bamigbola
 - 👀 I have a good grasp of the concept of programming.
-- I can code in different languages
 - 🌱
 - 💞️ I’m looking to collaborate on ...
 - 📫 
